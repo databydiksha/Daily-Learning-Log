@@ -1,4 +1,4 @@
-# Daily-Learning-Log
+# Daily Learning Log ft. PYTHON
 Documenting my daily progress in Python, Data Analytics, Machine Learning, and Software Development.
 
 Welcome to my daily learning repository.
